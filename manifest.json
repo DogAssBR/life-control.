@@ -1,0 +1,9 @@
+{
+  "name": "Life Control — Controle Financeiro",
+  "short_name": "Life Control",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0c1723",
+  "theme_color": "#101d2b",
+  "icons": []
+}
